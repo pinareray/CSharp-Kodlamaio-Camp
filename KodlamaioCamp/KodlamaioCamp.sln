@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampIntro", "CampIntro\CampIntro.csproj", "{DD2C1CCE-EBB3-4842-814F-F1798F80EC1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{1F9B232B-F64B-40DA-9C7C-4A7E4B9E88D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{3CE7B490-33D6-465F-824F-1D158564FB35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2C1CCE-EBB3-4842-814F-F1798F80EC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2C1CCE-EBB3-4842-814F-F1798F80EC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2C1CCE-EBB3-4842-814F-F1798F80EC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2C1CCE-EBB3-4842-814F-F1798F80EC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9B232B-F64B-40DA-9C7C-4A7E4B9E88D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9B232B-F64B-40DA-9C7C-4A7E4B9E88D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9B232B-F64B-40DA-9C7C-4A7E4B9E88D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9B232B-F64B-40DA-9C7C-4A7E4B9E88D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE7B490-33D6-465F-824F-1D158564FB35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE7B490-33D6-465F-824F-1D158564FB35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE7B490-33D6-465F-824F-1D158564FB35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE7B490-33D6-465F-824F-1D158564FB35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59E93994-BDB3-4B5D-A3FD-CEE27353E913}
+	EndGlobalSection
+EndGlobal
