@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pinar\\OneDrive\\Masaüstü\\KodlamaioCamp\\KodlamaioCamp\\CampIntro\\CampIntro.csproj",
+      "projectUniqueName": "C:\\Users\\pinar\\OneDrive\\Masaüstü\\CSharp-Kodlamaio-Camp\\KodlamaioCamp\\CampIntro\\CampIntro.csproj",
       "projectName": "CampIntro",
-      "projectPath": "C:\\Users\\pinar\\OneDrive\\Masaüstü\\KodlamaioCamp\\KodlamaioCamp\\CampIntro\\CampIntro.csproj",
+      "projectPath": "C:\\Users\\pinar\\OneDrive\\Masaüstü\\CSharp-Kodlamaio-Camp\\KodlamaioCamp\\CampIntro\\CampIntro.csproj",
       "packagesPath": "C:\\Users\\pinar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pinar\\OneDrive\\Masaüstü\\KodlamaioCamp\\KodlamaioCamp\\CampIntro\\obj\\",
+      "outputPath": "C:\\Users\\pinar\\OneDrive\\Masaüstü\\CSharp-Kodlamaio-Camp\\KodlamaioCamp\\CampIntro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pinar\\AppData\\Roaming\\NuGet\\NuGet.Config",
